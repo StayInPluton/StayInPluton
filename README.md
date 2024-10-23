@@ -6,8 +6,6 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
-
 ## 🛠 Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -16,18 +14,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-</div>
-
-<div align="center" style="display: flex; justify-content: center;">
-
 ## GitHub Stats
 
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/StayInPluton">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=StayInPluton&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StayInPluton&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-
 
 ## 🔗 Contatos
 
